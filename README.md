@@ -3,4 +3,4 @@
 This is the pinteresting sample application for 
 [*One Month Rails*] (http://www.onemonthrails.com)
 
-by [Adrian Mullan] (http://google.com)
+by [Adrian Mullan] (http://google.com.au)
